@@ -1,0 +1,62 @@
+message,category,priority
+I was charged twice for the same monthly subscription,billing,high
+My refund has not arrived after ten business days,billing,medium
+Please explain the extra fee on my latest invoice,billing,low
+The checkout says payment failed but money left my account,billing,high
+I need a copy of last month's invoice,billing,low
+My annual plan renewed even though I cancelled it,billing,high
+Can I change the card used for future payments,billing,low
+The discount code was accepted but the full price was charged,billing,medium
+Our invoice shows the wrong company address,billing,medium
+Why did my subscription price increase this month,billing,low
+I paid yesterday but the account still shows an overdue balance,billing,medium
+We need the tax identification number added to our invoices,billing,low
+Three unexpected transactions appeared on our company card,billing,high
+The payment page freezes before confirming my purchase,billing,medium
+Please cancel the pending charge before it is completed,billing,high
+The application crashes every time I upload a PDF,technical,high
+Images are not loading in the mobile application,technical,medium
+The export button does nothing when I click it,technical,medium
+The dashboard is unusually slow this morning,technical,low
+Production is down and our entire team is blocked,technical,high
+I receive an unknown server error when saving a report,technical,high
+Notifications stopped appearing after the latest update,technical,medium
+The desktop app will not install on Windows,technical,medium
+Text overlaps the buttons on a small screen,technical,low
+The API returns a 500 response for every request,technical,high
+Video playback pauses every few seconds,technical,medium
+The search results remain blank for valid queries,technical,medium
+Dark mode colors make the menu impossible to read,technical,low
+The integration disconnects once every afternoon,technical,medium
+Uploaded files disappear after I refresh the page,technical,high
+I cannot access my account after changing my phone number,account,high
+The password reset email never arrives,account,medium
+Please update the name displayed on my profile,account,low
+My account was locked after one failed login attempt,account,high
+I want to enable two factor authentication,account,low
+An employee who left the company still has access,account,high
+I cannot verify my new email address,account,medium
+Please delete my account and personal information,account,medium
+My profile picture will not update,account,low
+I was signed out of every device without warning,account,high
+How can I transfer account ownership to a colleague,account,medium
+The invitation link for a new teammate has expired,account,low
+Someone changed my password without permission,account,high
+My administrator role was removed unexpectedly,account,high
+I need to merge two accounts created with different emails,account,medium
+Where can I find documentation for team permissions,general,low
+Do you offer a discount for nonprofit organizations,general,low
+I would like to suggest a calendar integration,general,low
+Which subscription includes unlimited projects,general,low
+Can your product be used by a school,general,low
+We need onboarding help before tomorrow's company launch,general,high
+Is the service available in Serbian,general,low
+Please send information about your enterprise plan,general,medium
+How long do you keep deleted project data,general,medium
+I want to provide feedback about the new dashboard,general,low
+Do you have a public roadmap for upcoming features,general,low
+Our procurement deadline is today and we need a security document,general,high
+Can I schedule a product demonstration for my team,general,medium
+What accessibility features does the application support,general,low
+We need confirmation of data residency before signing the contract,general,medium
+
